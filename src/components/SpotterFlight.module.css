@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap:20px;
   height: 100vh;
   background: linear-gradient(to right, #d7e8fe 10%, #a6c5e9 50%, #98c8fe 100%);
 }

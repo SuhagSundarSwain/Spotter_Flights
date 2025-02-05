@@ -4,7 +4,7 @@ import AirportCards from "./AirportCards";
 function NearByAirport() {
   return (
     <>
-      <h3 className={styles.nba_title}>NearBy Airports</h3>
+      <u className={styles.nba_title}>NearBy Airports</u>
       <AirportCards />
     </>
   );
