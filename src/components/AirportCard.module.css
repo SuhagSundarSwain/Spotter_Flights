@@ -1,0 +1,24 @@
+.nba_card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  background-color: white;
+  padding: 15px;
+  width: 17vw;
+}
+
+.nba_icon {
+  font-size: xx-large;
+  color: #2563eb;
+}
+
+.nba_card_name {
+  margin: 7px 0;
+  font-size: x-large;
+}
+
+.nba_card_location {
+  margin: 5px 0;
+  color: #838383;
+}
