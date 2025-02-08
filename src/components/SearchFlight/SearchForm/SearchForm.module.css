@@ -1,0 +1,10 @@
+.search_flight_input_container {
+  display: flex;
+  gap: 20px;
+  width: 80%;
+  justify-content: space-between;
+}
+
+.search_flight_button {
+  width: 80%;
+}

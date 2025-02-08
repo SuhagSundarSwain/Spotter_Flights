@@ -1,0 +1,63 @@
+.calendar_container {
+  position: absolute;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  max-height: 400px;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+.weekday_names_container {
+  display: flex;
+  justify-content: space-around;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.weekday_names {
+  color: blue;
+  padding: 5px;
+}
+
+.calendar_dates {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+}
+
+.date_box {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.date_box:hover {
+  background-color: #d1e7fd;
+}
+
+.today {
+  background-color: #6a76f9;
+  color: white;
+  font-weight: bold;
+}
+
+.priceText {
+  font-size: 10px;
+  color: rgb(0, 0, 255);
+}
+
+.empty_box {
+  width: 40px;
+  height: 40px;
+}

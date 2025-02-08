@@ -1,4 +1,4 @@
-import { IoLocation } from "react-icons/io5";
+import { CiAirportSign1 } from "react-icons/ci";
 import styles from "./AirportCard.module.css";
 
 function AirportCard({
@@ -7,7 +7,7 @@ function AirportCard({
 }) {
   return (
     <div className={styles.nba_card}>
-      <IoLocation className={styles.nba_icon} />
+      <CiAirportSign1 className={styles.nba_icon} />
       <p className={styles.nba_card_name}>{ariportName}</p>
       <p className={styles.nba_card_location}> {ariportLocation}</p>
     </div>

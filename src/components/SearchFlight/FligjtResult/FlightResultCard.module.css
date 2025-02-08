@@ -1,0 +1,49 @@
+.flight_card {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  width: 53vw;
+  padding: 10px 30px;
+  border-radius: 10px;
+  align-items: center;
+  gap: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.flight_card:hover {
+  background-color: #a1a5ff;
+}
+
+.flight_card img {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.flight_card p {
+  margin: 0;
+  font-weight: bold;
+}
+
+.flight_card_info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1px;
+}
+
+.flight_card_price {
+  font-size: 18px;
+  font-weight: normal;
+  color: #1e40af;
+}
+
+.flight_card_dates {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.flight_card_duration {
+  color: #4b5563;
+}
