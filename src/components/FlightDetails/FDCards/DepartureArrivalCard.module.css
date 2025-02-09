@@ -1,0 +1,16 @@
+.departure_arrival_title {
+  font-size: 15px;
+  margin: 0;
+  color: #979da2;
+  font-weight: 400;
+}
+.time {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+}
+.airport_name {
+  font-size: 15px;
+  font-weight: 400;
+  color: #717171;
+}

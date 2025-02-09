@@ -1,0 +1,62 @@
+.flight_details {
+  position: absolute;
+  top: 73%;
+  width: 55%;
+  background-color: white;
+  padding: 40px 35px;
+  border-radius: 20px;
+  box-shadow: 0 0 0 100vh rgba(0, 0, 0, 0.3);
+}
+
+.close_icon {
+  margin-left: 98%;
+  color: red;
+  font-size: 31px;
+  cursor: pointer;
+}
+
+.card_title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.flight_travel_detail {
+  display: flex;
+  justify-content: space-between;
+}
+
+.origin_destination_text {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: monospace;
+  margin: 0;
+  color: #374151;
+}
+
+.date_text {
+  color: #b1b1b1;
+}
+
+.price {
+  background-color: #36ca6c;
+  padding: 5px;
+  height: 40px;
+  border-radius: 10px;
+  width: 50px;
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+  font-family: serif;
+  font-size: 20px;
+}
+
+.all_detail_card {
+  background-color: #f3f4f6;
+  border-radius: 10px;
+  padding: 20px 15px;
+}
+
+.detail_card {
+  display: flex;
+  justify-content: space-between;
+}

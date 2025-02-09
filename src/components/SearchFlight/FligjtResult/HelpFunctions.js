@@ -6,5 +6,6 @@ export const convertMinutesToHoursMinutes = (minutes) => {
 
 export const spiltDateAndTime = (input) => {
   const data = input.split("T");
-  return `${data[0]} | ${data[1]}`;
+  return data;
 };
+

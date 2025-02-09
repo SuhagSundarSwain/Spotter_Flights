@@ -5,7 +5,7 @@ import { FlightsContext } from "../../../store/context-store/Flights-Context-Sto
 
 function FlightResults() {
   const { flightList } = useContext(FlightsContext);
-  const [sortCriteria, setSortCriteria] = useState("price");
+  const [sortCriteria, setSortCriteria] = useState("select");
 
   const sortFlights = (criteria) => {
     let sortedFlights = [...flightList];
