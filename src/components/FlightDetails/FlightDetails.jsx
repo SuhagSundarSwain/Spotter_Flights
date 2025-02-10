@@ -18,7 +18,7 @@ function FlightDetails() {
         className={styles.close_icon}
         onClick={() => setShowFlightDetails(false)}
       />
-      <p className={styles.card_title}>FlightDetails</p>
+      <p className={styles.card_title}>{"Flight Details"}</p>
       <div className={styles.flight_travel_detail}>
         <div>
           <p className={styles.origin_destination_text}>
