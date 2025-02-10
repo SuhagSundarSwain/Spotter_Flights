@@ -85,9 +85,9 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 ## 💬 Contact
 
 For any queries or collaboration opportunities, reach out to:
-📧 Email: `suhagsundarswain1@gmail.com`
-📌 GitHub: [GitHub Profile](https://github.com/SuhagSundarSwain)
-📌 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suhagsundarswain/)
+- 📧 Email: `suhagsundarswain1@gmail.com`
+- 📌 GitHub: [GitHub Profile](https://github.com/SuhagSundarSwain)
+- 📌 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suhagsundarswain/)
 
 ---
 
