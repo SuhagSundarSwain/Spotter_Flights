@@ -6,12 +6,12 @@ Google Flights Clone is a powerful and responsive flight search application buil
 
 ## 🎯 Features
 
-✅ **Search Flights** - Enter departure & arrival locations and find flights.
-✅ **Sort Flights** - Sort by **price, duration, arrival, departure**.
-✅ **View Nearby Airports** - Automatically fetches airports near your location.
-✅ **Flight Details** - Click on a flight to see detailed information.
-✅ **Fully Responsive** - Works seamlessly on **desktop, tablet, and mobile**.
-✅ **Optimized UI/UX** - Clean design with a smooth user experience.
+- ✅ **Search Flights** - Enter departure & arrival locations and find flights.
+- ✅ **Sort Flights** - Sort by **price, duration, arrival, departure**.
+- ✅ **View Nearby Airports** - Automatically fetches airports near your location.
+- ✅ **Flight Details** - Click on a flight to see detailed information.
+- ✅ **Fully Responsive** - Works seamlessly on **desktop, tablet, and mobile**.
+- ✅ **Optimized UI/UX** - Clean design with a smooth user experience.
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +22,7 @@ Google Flights Clone is a powerful and responsive flight search application buil
 
 ## 🌍 Live Demo
 
-🔗 **[View Live Project](#)** (https://www.loom.com/share/e575a67e61ec467386dc33cc2685579d?sid=f275c0a6-2ef4-4328-be1b-5a21c43bbf25)
+🔗 **[View Live Project Demo](#)** (https://www.loom.com/share/e575a67e61ec467386dc33cc2685579d?sid=f275c0a6-2ef4-4328-be1b-5a21c43bbf25)
 
 ## 📦 Installation & Setup
 
